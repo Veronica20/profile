@@ -1,0 +1,14 @@
+.user_name{
+    display: flex;
+    width: 184px;
+    justify-content: space-around;
+    margin: 20px 0;
+}
+
+.button{
+  display: none;
+}
+
+.text{
+    color: red;
+}
